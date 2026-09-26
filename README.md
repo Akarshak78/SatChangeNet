@@ -45,3 +45,9 @@ The experiments were conducted using:
 - NVIDIA Tesla T4 GPU
 - Google Colab
 
+### Dataset Path
+
+The notebook uses Google Drive for dataset storage.
+Before running the experiments, update the dataset path variables
+in the notebook according to the location of the LEVIR-CD dataset
+in your own Google Drive.
